@@ -24,4 +24,4 @@ The Foodle interface is a web page where you are able to access the functionalit
 <img src="https://github.com/tracey-nguyen/comp3900-computer-science-project/assets/73512654/87a6f568-4c2c-44ce-a360-1bfb46424c47" width="700">
 
 ## Link to Project
-Here is a link to the final project: https://drive.google.com/file/d/1chwzaE6QWLGlrRToMRPSlePo5CUGqj1J/view?usp=sharing
+Here is the link to the final project: https://drive.google.com/file/d/1chwzaE6QWLGlrRToMRPSlePo5CUGqj1J/view?usp=sharing
