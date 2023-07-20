@@ -1,4 +1,5 @@
 # Computer Science Project (COMP3900): Foodle - A Recipe Recommendation System
+This project was conducted during 2022 Term 2 as part of the UNSW course COMP3900.
 
 ## Overview
 Foodle is an interactive recipe recommendation system, where users can match their ingredients to suitable recipes. This project mainly aims to:
